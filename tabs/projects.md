@@ -43,7 +43,7 @@ image_lazy_loader_on: true
 page_data:
   main:
     header: "Projects"
-    info: "Your Project page description."
+    info: "My Projects."
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"
