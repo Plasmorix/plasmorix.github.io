@@ -33,7 +33,7 @@ page_data:
       post: |
         # Examples
 
-        This is an example page to display markdown related styles for Mr. Green Jekyll Theme.
+        I agree, Nachiket was here
 
         ### Headings (centered)
         {:data-align="center"}
