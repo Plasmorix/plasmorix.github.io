@@ -41,4 +41,6 @@ img: ":about.jpg"
 {%- include util/auto-content-generator.liquid -%}
 {{ website_info_text_first }}
 
+# HI
+
 {{ website_info_text_second }}
