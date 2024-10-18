@@ -4,7 +4,7 @@ lng_pair: id_home
 img: ":home-heading.jpg"
 date: 2022-03-03 12:32:00 +0000
 title: Nachiket's Portfolio
-button_name: "My button"
+button_name: "Home"
 _data/conf/main.yml
 icon: "fa fa-bath"
 meta_modify_date: 2022-03-03 12:32:00 +0000
