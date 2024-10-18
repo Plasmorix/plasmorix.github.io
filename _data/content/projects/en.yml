@@ -25,7 +25,7 @@ page_data:
   list:
     # example
     - type: id_example
-      project_name: "Example Project 2232323"
+      project_name: "Project 1"
       project_excerpt: "Examples"
       img: ":project1_thumb.jpg"
       img_title: "img title1"
