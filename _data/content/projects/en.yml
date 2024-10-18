@@ -26,10 +26,10 @@ page_data:
     # example
     - type: id_example
       project_name: "Project 1"
-      project_excerpt: "Examples"
+      project_excerpt: "List Project 1's Description Here:"
       img: ":project1_thumb.jpg"
       img_title: "img title1"
-      date: "2021-03-13"
+      date: "2024-10-18"
       post: |
         # Examples
 
